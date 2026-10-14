@@ -35,4 +35,4 @@ Default admin: `admin` / `admin123` (change after first login).
 | `screenshots/` | Output screenshots for the report |
 
 ## Team
-Group 9: add member names and roles here.
+Group 9: Jonathan, Naail, Jerfin.
