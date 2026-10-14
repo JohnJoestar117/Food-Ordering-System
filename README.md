@@ -12,11 +12,12 @@ cart, bill generation, order history, feedback and complaints.
 review and resolve complaints, sales reports (revenue, daily totals, top items, average rating).
 
 ## Setup
-1. Install Python 3 and MySQL Server.
-2. `pip install -r requirements.txt`
-3. Copy `config.example.py` to `config.py` and enter your MySQL password.
-4. `python setup_db.py` (creates the database, tables, sample menu and a default admin).
-5. `python main.py`
+1.Clone the repo, then `cd food-ordering-system`(the folder path) before running any commands.
+2. Install Python 3 and MySQL Server.
+3. `pip install -r requirements.txt`
+4. Copy `config.example.py` to `config.py` and enter your MySQL password.
+5. `python setup_db.py` (creates the database, tables, sample menu and a default admin).
+6. `python main.py`
 
 Default admin: `admin` / `admin123` (change after first login).
 
