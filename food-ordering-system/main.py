@@ -1,4 +1,3 @@
-"""Entry point: login / register, then route by role."""
 import mysql.connector
 
 import auth
